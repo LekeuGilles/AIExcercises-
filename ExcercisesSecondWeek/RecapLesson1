@@ -1,0 +1,11 @@
+Ÿ is de voorspelde uitkomst
+
+Jaccard Index:
+
+y: Actual Labels
+ÿ: predicted labels
+
+F1-Score
+Recall == Reality // what did i predict from the actual labels
+
+Entropy == Chaos, low entropy = structure what you want to look for
